@@ -1,0 +1,23 @@
+[
+    {
+        "id": "f83721ce-8002-4cc8-afac-b6c4965acd6a",
+        "name": "Roadster",
+        "releaseYear": 2022,
+        "available": true,
+        "gasAvaliable": true
+    },
+    {
+        "id": "aeaa7eee-8848-4695-b915-cf2ff856aa02",
+        "name": "Beetle",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvaliable": true
+    },
+    {
+        "id": "16a4505a-2a3e-4975-b83c-61e17e81cf0e",
+        "name": "Accord",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvaliable": true
+    }
+]
