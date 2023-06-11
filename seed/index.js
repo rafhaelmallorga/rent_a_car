@@ -47,8 +47,4 @@ const write = (fileName, data) => writeFile(join(seederBaseFolder, fileName), JS
     await write('cars.json', cars);
     await write('carCategory.json', [carCategory]);
     await write('customers.json', customers);
-    
-    console.log(cars)
-    console.log(carCategory)
-    console.log(customers)
 })()
